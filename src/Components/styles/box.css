@@ -1,0 +1,8 @@
+.box{
+    height: 300px;
+    width: 200px;
+    float: left;
+    background-color :yellowgreen;
+    color: rgb(43, 43, 75);
+    margin: 20px;
+}
